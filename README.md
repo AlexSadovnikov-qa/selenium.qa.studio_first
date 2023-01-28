@@ -1,1 +1,1 @@
-# Тесты на Selenium для сайта https://test.qa.studio
+Тесты на Selenium для сайта https://test.qa.studio
